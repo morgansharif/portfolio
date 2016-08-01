@@ -12,7 +12,7 @@ Web-app companion to the [existing iOS app](http://www.reccheckapp.com), which a
 
 ##Vagabond
 ######Vacation itinerary platform. 
-######([Github](https://github.com/morgansharif/vagabond)) ([Demo](http://murmuring-brook-27298.herokuapp.com/) User: `sarahjones@hotmail.com` Pass: `123`)
+######([Github](https://github.com/morgansharif/vagabond)) ([Demo](https://roam-travel.herokuapp.com/) User: `sarahjones@hotmail.com` Pass: `123`)
 
 Travel app that enables users to discover new places and get inspired through other people’s published itineraries as well as publish their own.
 
